@@ -108,12 +108,13 @@ Source: **ISOT Fake News Dataset** (~44,000 labeled articles).
 
 ## 👥 Team Contributions
 
-| #   | Role                       | Contributor | Steps                                                                         | Work                                                                                  |
-| --- | -------------------------- | ----------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| 1   | Concept & Methodology Lead | Priyansh    | Library setup, dataset loading, exploratory data analysis, text preprocessing |
-| 2   | Data & Preprocessing Lead  | Mukund      | Train-test split, TF-IDF vectorization, PAC training, model evaluation        |
-| 3   | Model Development Lead     | Paramveer   || Confusion matrix, baseline comparisons, visualization, cross-validation      |
-| 4   | Evaluation & Writing Lead  | Piyush      || Feature analysis, predicted label distribution, final summary, manuscript preparation |
+| # | Role | Contributor | Work |
+|---|------|-------------|------|
+| 1 | Concept & Methodology Lead | Priyansh | Library setup, dataset loading, exploratory data analysis, text preprocessing |
+| 2 | Data & Preprocessing Lead | Mukund | Train-test split, TF-IDF vectorization, PAC training, model evaluation |
+| 3 | Model Development Lead | Paramveer | Confusion matrix, baseline comparisons, visualization, cross-validation |
+| 4 | Evaluation & Writing Lead | Piyush | Feature analysis, predicted label distribution, final summary, manuscript preparation |
+```
 
 ---
 
